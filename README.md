@@ -112,17 +112,17 @@ Voici une présentation visuelle des principales interfaces de l'application Fas
 
 ### Page d'Accueil
 
-![Page d'Accueil](android\Assets\image.png)
+![Page d'Accueil](android/Assets/image.png)
 _Interface principale présentant les fonctionnalités essentielles de l'application_
 
 ### Liste des Ressources
 
-![Liste des Ressources](android\Assets\image2.png)
+![Liste des Ressources](android/Assets/image2.png)
 _Affichage des ressources d'apprentissage avec leur niveau de difficulté et catégorie_
 
 ### Formulaire d'Ajout
 
-![Formulaire d'Ajout](android\Assets\image3.png)
+![Formulaire d'Ajout](android/Assets/image3.png)
 _Interface permettant aux utilisateurs d'ajouter de nouvelles ressources d'apprentissage_
 
 ## Conclusion et Perspectives

@@ -141,5 +141,3 @@ Ce projet démontre ma maîtrise des concepts fondamentaux du développement mob
 ---
 
 © 2023 Faseeh Language Learning Application
-
-# Faseeh_UI_Clone_Flutter

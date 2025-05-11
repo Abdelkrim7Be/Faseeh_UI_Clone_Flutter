@@ -140,4 +140,4 @@ Ce projet démontre ma maîtrise des concepts fondamentaux du développement mob
 
 ---
 
-© 2023 Faseeh Language Learning Application
+© 2025 Faseeh Language Learning Application
